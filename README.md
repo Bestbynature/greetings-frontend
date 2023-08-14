@@ -30,7 +30,7 @@
 
 **[Hello-React-Front-End]** is built with react using create-react-app. It essentially displays a message each time from an api endpoints.
 
-## [Link to the BackEnd Api Repo](https://github.com/Bestbynature/greetings-backend)
+## [Link to the BackEnd Api Repo](https://github.com/Bestbynature/greetings-backend/pull/1)
 
 
 ## 🛠 Built With <a name="built-with"></a>
